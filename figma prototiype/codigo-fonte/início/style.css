@@ -1,0 +1,124 @@
+
+.body {
+  display: flex;
+  min-height: 100vh;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.menu-lateral {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 200px;
+  background-color: #A5CFAD;
+  padding-top: 20px;
+}
+
+.menu-lateral ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.menu-lateral ul li {
+  margin: 20px 0;
+}
+
+.menu-lateral ul li a {
+  color: black;
+  text-decoration: none;
+  padding: 10px 20px;
+  display: block;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+}
+
+.menu-lateral ul li a:hover {
+  color: white;
+  background-color: #5B725F;
+}
+
+.menu-lateral ul li .icon {
+  margin-right: 10px;
+}
+.sino-fixo {
+  position: fixed;
+  bottom: 20px;
+  left: 10px;
+  font-size: 28px;
+  color: #5B725F;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 1000;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  transition: none;
+}
+.saudacao {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  padding-left: 15%;
+  color: #5B725F;
+}
+
+.saldo-text {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  margin: 0%
+}
+
+.saldo {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:center;
+  height: 85vh;
+  text-align: center;
+  margin-left: auto;
+  margin-right:auto;
+  color: #5B725F;
+  font-size: 20px;
+}
+
+.saldo-botoes {
+  display: flex;
+  align-items: center;
+}
+
+.saldo-botoes button {
+  background: none; 
+  border: none; 
+  cursor: pointer; 
+  color: #5B725F
+}
+
+.menu-lateral {
+  transition: width 0.3s ease;
+  overflow: hidden;
+}
+
+.menu-lateral.menu-fechado {
+  width: 70px;
+}
+
+.menu-lateral .menu-text {
+  transition: opacity 0.3s ease, margin 0.3s ease;
+  white-space: nowrap;
+}
+
+.menu-lateral.menu-fechado .menu-text {
+  opacity: 0;
+  margin-left: -100px;
+  pointer-events: none;
+}
+
+.menu-lateral .toggle-button {
+  border: none;
+  background: none;
+  width: 60px;
+}
