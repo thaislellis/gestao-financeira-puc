@@ -17,7 +17,7 @@ Trata-se de uma amostra das minhas contribuições pessoais no projeto acadêmic
 - **Visualização estratégica de títulos a vencer**
 - **Prototipação da interface no Figma**
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML
 - CSS
@@ -26,6 +26,6 @@ Trata-se de uma amostra das minhas contribuições pessoais no projeto acadêmic
 - IndexedDB
 - Figma (UX/UI)
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou buscando minha primeira oportunidade como estagiária na área de desenvolvimento. Este projeto reflete minha dedicação e aprendizado prático com HTML, CSS, JavaScript, além de noções de UX Design com Figma.
