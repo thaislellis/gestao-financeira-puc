@@ -1,11 +1,11 @@
 
 # Gestão Financeira  – Contribuição Acadêmica
 
-Este repositório foi criado exclusivamente para fins de portifólio.
+O presente repositório trata-se de uma amostra das minhas contribuições pessoais no projeto acadêmico de uma aplicação web de **gestão financeira**, desenvolvido em equipe durante o curso de Análise e Desenvolvimento de Sistemas na **PUC Minas**.
 
-Trata-se de uma amostra das minhas contribuições pessoais no projeto acadêmico de uma aplicação web de **gestão financeira**, desenvolvido em equipe durante o curso de Análise e Desenvolvimento de Sistemas na **PUC Minas**.
-
-**Observação**: O projeto completo está hospedado em um repositório privado institucional da universidade. Este repositório contém somente as partes desenvolvidas por mim.
+**Observações Importantes**: 
+1. Este repositório foi criado exclusivamente para fins de portifólio.
+2. O projeto completo está hospedado em um repositório privado institucional da universidade. Este repositório contém somente as partes desenvolvidas por mim.
 
 **Nota**: As imagens contidas neste repositório são meras representações do projeto acadêmico desenvolvido no ambiente privado da PUC Minas.  
 
